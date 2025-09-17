@@ -40,21 +40,36 @@ The dataset includes:
 - Pre- and post-disaster images
 - Location and damage type annotations
 - Severity scores (minor, moderate, severe)
-- Sample image regions from Horseshoe Beach, Florida after Hurricane Idalia and Milton
+- Sample image regions from Horseshoe Beach, Florida, after Hurricane Milton
 
 ---
 
 ## 🧠 Paper Reference
+## 📚 Citation
 
-> Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025).  
-> *Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models*.  
-> arXiv preprint [arXiv:2504.09066](https://arxiv.org/abs/2504.09066)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.09066-b31b1b.svg)](https://arxiv.org/abs/2504.09066)
+[![CEUS](https://img.shields.io/badge/Journal-CEUS-blue.svg)](#)
+[![DOI](https://img.shields.io/badge/DOI-TBD-lightgrey.svg)](https://doi.org/REPLACE_WITH_DOI)
 
-Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025).
-Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models.
-Computers, Environment and Urban Systems, 112, 102280.
-[https://doi.org/10.1016/j.compenvurbsys.2025.102280](https://doi.org/10.1016/j.compenvurbsys.2025.102335)
+If you use this repository, please cite **both** the arXiv preprint and the CEUS article (when the DOI is available).
+
 ---
+
+### APA (arXiv)
+Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025). *Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models*. arXiv. https://arxiv.org/abs/2504.09066
+
+### BibTeX (arXiv)
+```bibtex
+@misc{yang2025hyperlocal,
+  title        = {Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models},
+  author       = {Yang, Yifan and Zou, Lei and Zhou, Bing and Li, Daoyang and Lin, Binbin and Abedin, Joynal and Yang, Mingzheng},
+  year         = {2025},
+  eprint       = {2504.09066},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.CV},
+  url          = {https://arxiv.org/abs/2504.09066}
+}
+
 
 ## 🗂 Repository Structure
 

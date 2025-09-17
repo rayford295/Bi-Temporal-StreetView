@@ -53,7 +53,7 @@ The dataset includes:
 Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025).
 Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models.
 Computers, Environment and Urban Systems, 112, 102280.
-https://doi.org/10.1016/j.compenvurbsys.2025.102280
+[https://doi.org/10.1016/j.compenvurbsys.2025.102280](https://doi.org/10.1016/j.compenvurbsys.2025.102335)
 ---
 
 ## 🗂 Repository Structure

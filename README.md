@@ -43,31 +43,38 @@ The dataset includes:
 - Sample image regions from Horseshoe Beach, Florida, after Hurricane Milton
 
 ---
-
 ## 🧠 Paper Reference
-## 📚 Citation
+### 📚 Citation
 
+[![CEUS](https://img.shields.io/badge/Journal-CEUS-blue.svg)](https://doi.org/10.1016/j.compenvurbsys.2025.102232)
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.compenvurbsys.2025.102232-blue.svg)](https://doi.org/10.1016/j.compenvurbsys.2025.102232)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.09066-b31b1b.svg)](https://arxiv.org/abs/2504.09066)
-[![CEUS](https://img.shields.io/badge/Journal-CEUS-blue.svg)](#)
-[![DOI](https://img.shields.io/badge/DOI-TBD-lightgrey.svg)](https://doi.org/REPLACE_WITH_DOI)
 
-If you use this repository, please cite **both** the arXiv preprint and the CEUS article (when the DOI is available).
+If you use this repository, please cite **both** the CEUS article and the arXiv preprint.
 
 ---
 
-### APA (arXiv)
-Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025). *Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models*. arXiv. https://arxiv.org/abs/2504.09066
+<details>
+<summary><b>📖 APA Citation (click to expand)</b></summary>
 
-### BibTeX (arXiv)
+Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025). *Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models*. *Computers, Environment and Urban Systems, 112*, 102232. https://doi.org/10.1016/j.compenvurbsys.2025.102232
+
+</details>
+
+<details>
+<summary><b>🧾 BibTeX (click to expand)</b></summary>
+
 ```bibtex
-@misc{yang2025hyperlocal,
+@article{yang2025hyperlocal,
   title        = {Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models},
   author       = {Yang, Yifan and Zou, Lei and Zhou, Bing and Li, Daoyang and Lin, Binbin and Abedin, Joynal and Yang, Mingzheng},
+  journal      = {Computers, Environment and Urban Systems},
+  volume       = {112},
+  pages        = {102232},
   year         = {2025},
-  eprint       = {2504.09066},
-  archivePrefix= {arXiv},
-  primaryClass = {cs.CV},
-  url          = {https://arxiv.org/abs/2504.09066}
+  doi          = {10.1016/j.compenvurbsys.2025.102232},
+  publisher    = {Elsevier},
+  url          = {https://doi.org/10.1016/j.compenvurbsys.2025.102232}
 }
 
 

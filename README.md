@@ -39,7 +39,7 @@ You can access the **bi-temporal street-view disaster dataset** from the followi
 The dataset includes:
 - Pre- and post-disaster images
 - Location and damage type annotations
-- Severity scores (minor, moderate, severe)
+- Severity scores (mild, moderate, severe)
 - Sample image regions from Horseshoe Beach, Florida, after Hurricane Milton
 
 ---
@@ -65,16 +65,18 @@ Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025). *Hy
 <summary><b>🧾 BibTeX (click to expand)</b></summary>
 
 ```bibtex
-@article{yang2025hyperlocal,
-  title        = {Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models},
-  author       = {Yang, Yifan and Zou, Lei and Zhou, Bing and Li, Daoyang and Lin, Binbin and Abedin, Joynal and Yang, Mingzheng},
-  journal      = {Computers, Environment and Urban Systems},
-  volume       = {121},
-  pages        = {102335},
-  year         = {2025},
-  doi          = {10.1016/j.compenvurbsys.2025.102335},
-  publisher    = {Elsevier},
-  url          = {https://doi.org/10.1016/j.compenvurbsys.2025.102335}
+@article{YANG2025102335,
+title = {Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models},
+journal = {Computers, Environment and Urban Systems},
+volume = {121},
+pages = {102335},
+year = {2025},
+issn = {0198-9715},
+doi = {https://doi.org/10.1016/j.compenvurbsys.2025.102335},
+url = {https://www.sciencedirect.com/science/article/pii/S0198971525000882},
+author = {Yifan Yang and Lei Zou and Bing Zhou and Daoyang Li and Binbin Lin and Joynal Abedin and Mingzheng Yang},
+keywords = {Disaster resilience, Street-view imagery, Dual-channel neural network, Pre-trained vision model, Damage estimation},
+abstract = {Street-view images offer unique advantages for disaster damage estimation as they capture impacts from a visual perspective and provide detailed, on-the-ground insights. Despite several investigations attempting to analyze street-view images for damage estimation, they mainly focus on using post-disaster images. The potential of time-series street-view images remains underexplored. Pre-disaster images provide valuable benchmarks for accurate damage estimations at building and street levels. These images could also aid annotators in objectively labeling post-disaster impacts, improving the reliability of labeled data sets for model training, and potentially enhancing the model performance in damage evaluation. The goal of this study is to estimate hyperlocal, on-the-ground disaster damages using bi-temporal street-view images and advanced pre-trained vision models. Street-view images before and after 2024 Hurricane Milton in Horseshoe Beach, Florida, were collected for experiments. The objectives are: (1) to assess the performance gains of incorporating pre-disaster street-view images as a no-damage category in fine-tuning pre-trained models, including Swin Transformer and ConvNeXt, for damage level classification; (2) to design and evaluate a dual-channel algorithm that reads pair-wise pre- and post-disaster street-view images for hyperlocal damage assessment. The results indicate that incorporating pre-disaster street-view images and employing a dual-channel processing framework can significantly enhance damage assessment accuracy. The accuracy improves from 66.14 % with the Swin Transformer baseline to 77.11 % with the dual-channel Feature-Fusion ConvNeXt model. Gradient-weighted Class Activation Mapping (Grad-CAM) shows that incorporating pre-disaster images improves the pre-trained vision model's capacity to focus on major changes between pre- and post-disaster images, thus enhancing model performance. This research evaluates the technical solutions and challenges of assessing disaster damages at hyperlocal spatial resolutions with bi-temporal street-view images, providing valuable insights to support effective decision-making in disaster management and resilience planning.}
 }
 
 

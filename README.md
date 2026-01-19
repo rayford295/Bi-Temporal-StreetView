@@ -64,6 +64,13 @@ You can access the **bi-temporal street-view disaster dataset** via the DOI belo
 > *Perceiving Multidimensional Disaster Damages from Street–View Images Using Visual–Language Models*.  
 > figshare. Dataset. [https://doi.org/10.6084/m9.figshare.28801208.v2](https://doi.org/10.6084/m9.figshare.28801208.v2)
 
+or
+
+The primary hosting platform is **Hugging Face Datasets**, which provides a version-controlled repository for convenient access, inspection, and integration with machine learning workflows:
+
+🔗 https://huggingface.co/datasets/Rayford295/BiTemporal-StreetView-Damage
+
+
 **Dataset Contents:**
 - Paired pre-/post-disaster street-view images  
 - Location and damage-type annotations  

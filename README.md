@@ -78,7 +78,24 @@ The primary hosting platform is **Hugging Face Datasets**, which provides a vers
 - Sample imagery from **Horseshoe Beach, FL** (Hurricane Milton, 2024)
 
 ---
+## 🏛️ Conference Presentation (AAG 2025)
 
+This work was **accepted for presentation** at the **2025 Annual Meeting of the American Association of Geographers (AAG 2025)**.
+- **Session:** GISS Specialty Group — **Paper Competition II**  
+- **Official AAG Link:** https://aag.secure-platform.com/aag2025/organizations/main/gallery/rounds/131/details/83465
+
+**Presentation Schedule:**
+- **Date:** 3/25/2025
+- **Time:** 10:10 AM - 11:30 AM 
+- **Location:** 360, Level 3, Huntington Place
+
+**Paper Title:**  
+*Hyperlocal Disaster Damage Assessment Using Bi-Temporal Street-View Imagery and Pre-Trained Image Processing Models*
+
+This presentation represents an **early-stage foundation** of the bi-temporal disaster perception framework, which later evolved into the **DamageArbiter** disagreement-driven arbitration framework presented at AAG 2026.
+
+
+---
 ## 🧠 Paper Reference
 
 [![CEUS](https://img.shields.io/badge/Journal-CEUS-blue.svg)](https://doi.org/10.1016/j.compenvurbsys.2025.102335)
@@ -110,23 +127,3 @@ url = {https://www.sciencedirect.com/science/article/pii/S0198971525000882},
 author = {Yifan Yang and Lei Zou and Bing Zhou and Daoyang Li and Binbin Lin and Joynal Abedin and Mingzheng Yang},
 keywords = {Disaster resilience, Street-view imagery, Dual-channel neural network, Pre-trained vision model, Damage estimation}
 }
-
-
-## 🗂 Repository Structure
-
-```bash
-BiTemporal-StreetView-Damage/
-│
-├── codes/                          # Model training and evaluation scripts
-├── images/                         # Project figures
-│   ├── study_area_disaster_damage_made.png
-│   ├── architect1.drawio (1).png
-│   ├── design experiment.drawio (1).png
-│   ├── dual_channel.drawio (2).png
-│   ├── 0204-06.png
-│   ├── readme.txt
-├── LICENSE
-├── README.md
-└── .gitignore
-
-

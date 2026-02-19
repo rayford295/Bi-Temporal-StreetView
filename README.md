@@ -107,7 +107,7 @@ If you use this repository, please cite **both** the *Computers, Environment and
 <details>
 <summary><b>📖 APA Citation (click to expand)</b></summary>
 
-Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025). *Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models*. *Computers, Environment and Urban Systems, 121*, 102335. https://doi.org/10.1016/j.compenvurbsys.2025.102335
+Yang, Y., Zou, L., Zhou, B., Li, D., Lin, B., Abedin, J., & Yang, M. (2025). Hyperlocal disaster damage assessment using bi-temporal street-view imagery and pre-trained vision models. Computers, Environment and Urban Systems, 121, 102335.
 
 </details>
 

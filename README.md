@@ -80,7 +80,8 @@ The primary hosting platform is **Hugging Face Datasets**, which provides a vers
 ---
 ## 🏛️ Conference Presentation (AAG 2025)
 
-This work was **accepted for presentation** at the **2025 Annual Meeting of the American Association of Geographers (AAG 2025)**.
+This work was **accepted for presentation** at the **2025 Annual Meeting of the American Association of Geographers (AAG 2025)** and received an **Honorable Mention in the GISS Specialty Group Paper Competition**.
+
 - **Session:** GISS Specialty Group — **Paper Competition II**  
 - **Official AAG Link:** https://aag.secure-platform.com/aag2025/organizations/main/gallery/rounds/131/details/83465
 
